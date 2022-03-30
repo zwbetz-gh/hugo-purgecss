@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Minimal, Reproducible Example for Hugo + PurgeCSS'
+
+disableKinds = ['taxonomy', 'term']
+
+[build]
+  writeStats = true

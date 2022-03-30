@@ -1,0 +1,37 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "body",
+      "br",
+      "div",
+      "h1",
+      "h2",
+      "head",
+      "html",
+      "li",
+      "link",
+      "meta",
+      "p",
+      "script",
+      "strong",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "alert",
+      "alert-danger",
+      "alert-dark",
+      "alert-info",
+      "alert-light",
+      "alert-primary",
+      "alert-secondary",
+      "alert-success",
+      "alert-warning",
+      "container",
+      "list-group",
+      "list-group-item"
+    ],
+    "ids": null
+  }
+}
