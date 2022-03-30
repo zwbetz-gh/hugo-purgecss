@@ -1,5 +1,11 @@
 # Minimal, Reproducible Example for Hugo + PurgeCSS
 
-## Links
+## Tutorial
 
-- Writeup: TODO
+https://zwbetz.com/how-to-use-purgecss-with-hugo/
+
+## Serve it
+
+```
+hugo serve --environment production
+```
