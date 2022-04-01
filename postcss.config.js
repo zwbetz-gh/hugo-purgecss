@@ -7,7 +7,8 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
       ...(els.classes || []),
       ...(els.ids || []),
     ];
-  }
+  },
+  safelist: []
 });
 
 module.exports = {
